@@ -1,0 +1,177 @@
+2025-10-24 19:33:52 - İstek başladı
+2025-10-24 19:33:52 - Dosya yüklendi: http://localhost/uploads/img_68fbb8800e69e9.85792681.jpeg
+2025-10-24 19:33:52 - RapidAPI'ye istek gönderiliyor
+2025-10-24 19:34:46 - RapidAPI yanıt kodu: 200
+2025-10-24 19:34:46 - RapidAPI ham yanıtı (ilk 2000 char): {"result":"Peki, lütfen resimdeki ayıcını tespit etmeyi ve istediğiniz bilgileri sağlayalım:\n\n1. **İsim**: Ayıcının ismi bilinmeyen bir nesnedir.\n2. **Yaygın Bölgeler**: Ayıcılar her yerde kullanılabilir, ancak kullanım alanları belirli bir bölgeye özgü değildir.\n3. **Optimum Kullanım Koşulları**: Ayıcılar sıcaklık ve nem seviyelerine duyarlı olabilir, ancak genel olarak farklı koşullarda kullanılabilir.\n4. **Tahmini Gövdesi**: Ayıcının gövdesi yaklaşık 10 cm x 5 cm x 3 cm boyutlarındadır.\n5. **Tahmini Yaş**: Ayıcının yaşı bilinmeyen bir nesnedir.\n6. **Güven Skoru**: Ayıcının güven skoru bilinmeyen bir nesnedir.\n\nEğer daha fazla detaylı bilgi istiyorsanız, resmin daha iyi kalitesi veya farklı açıdan alınmış bir görüntü gerekebilir.","status":true}
+2025-10-24 19:34:46 - JSON olarak döndürüldü
+2025-10-24 19:34:46 - İşlem tamamlandı
+2025-10-24 19:40:11 - İstek başladı
+2025-10-24 19:40:11 - Dosya yüklendi: http://localhost/uploads/img_68fbb9fb12dc77.00974993.jpg
+2025-10-24 19:40:11 - RapidAPI'ye istek gönderiliyor
+2025-10-24 19:41:11 - RapidAPI yanıt kodu: 0
+2025-10-24 19:41:11 - RapidAPI ham yanıtı (ilk 2000 char): 
+2025-10-24 19:41:11 - CURL hatası: Operation timed out after 60016 milliseconds with 0 bytes received
+2025-10-24 19:41:11 - API isteği başarısız
+2025-10-24 19:41:43 - İstek başladı
+2025-10-24 19:41:43 - Dosya yüklendi: http://localhost/uploads/img_68fbba576ef7c6.96275622.jpeg
+2025-10-24 19:41:43 - RapidAPI'ye istek gönderiliyor
+2025-10-24 19:42:41 - RapidAPI yanıt kodu: 200
+2025-10-24 19:42:41 - RapidAPI ham yanıtı (ilk 2000 char): {"status":false,"Error":"Some error occurred"}
+2025-10-24 19:42:41 - JSON olarak döndürüldü
+2025-10-24 19:42:41 - İşlem tamamlandı
+2025-10-24 19:44:40 - İstek başladı
+2025-10-24 19:44:40 - Dosya yüklendi: http://localhost/uploads/img_68fbbb082dd1f1.70812614.jpeg
+2025-10-24 19:44:40 - RapidAPI'ye istek gönderiliyor
+2025-10-24 19:45:35 - RapidAPI yanıt kodu: 200
+2025-10-24 19:45:35 - RapidAPI ham yanıtı: {"result":"```json\n{\n    \"treeName\": \"Fıstık\",\n    \"regions\": \"Akdeniz Bölgesi\",\n    \"conditions\": \"Güney ve güneydoğu yörelerde yetişir. Sıcak ve kurak iklim koşulları tercih eder.\",\n    \"radius\": \"10\",\n    \"age\": \"5-7 yıl\",\n    \"confidence\": \"95\"\n}\n```","status":true}
+2025-10-24 19:45:35 - Geçersiz API yanıtı
+2025-10-24 19:45:35 - İşlem tamamlandı
+2025-10-24 19:47:17 - İstek başladı
+2025-10-24 19:47:17 - Dosya yüklendi: http://localhost/uploads/img_68fbbba59f6d41.75272816.jpeg
+2025-10-24 19:47:17 - RapidAPI'ye istek gönderiliyor
+2025-10-24 19:47:59 - RapidAPI yanıt kodu: 200
+2025-10-24 19:47:59 - RapidAPI ham yanıtı: {"result":"```json\n{\n    \"treeName\": \"Elma Ağacı\",\n    \"regions\": \"Marmara Bölgesi\",\n    \"conditions\": \"Yüksek nem ve soğuk havası\",\n    \"radius\": \"1.5\",\n    \"age\": \"5 yıl\",\n    \"confidence\": \"0.95\"\n}\n```","status":true}
+2025-10-24 19:47:59 - Invalid API response structure
+2025-10-24 19:47:59 - İşlem tamamlandı
+2025-10-24 19:49:45 - İstek başladı
+2025-10-24 19:49:45 - Dosya yüklendi: http://localhost/uploads/img_68fbbc392a3be0.77223252.jpeg
+2025-10-24 19:50:15 - RapidAPI yanıt kodu: 0
+2025-10-24 19:50:15 - RapidAPI ham yanıtı: 
+2025-10-24 19:50:15 - CURL hatası: Operation timed out after 30006 milliseconds with 0 bytes received
+2025-10-24 19:51:25 - İstek başladı
+2025-10-24 19:51:25 - Dosya yüklendi: http://localhost/uploads/img_68fbbc9da8ddb9.70775892.jpeg
+2025-10-24 19:52:32 - RapidAPI yanıt kodu: 200
+2025-10-24 19:52:32 - RapidAPI ham yanıtı: {"result":"### Araç Türü Analizi\n\nAraç türü analizi, bir araçın özelliklerini, performansını ve kullanımını değerlendirmek için kullanılan bir yöntemdir. Bu analiz, araçların verimliliğini, güvenliğini ve sürdürülebilirliğini belirlemek için kullanılır. Araç türü analizi sırasında dikkat edilmesi gereken bazı anahtar faktörler şunlardır:\n\n1. **Araç Tipi**: Araç türü, araçın kullanım amacına göre belirlenir. Örneğin, aile aracı, iş aracı, spor aracı, elektrikli araç vs.\n2. **Yakıt Türü**: Benzin, dizel, elektrikli, hidrojen vs. araçların yakıtı ne olursa olsun, bu araçların performansını ve verimliliğini etkiler.\n3. **Performans**: Araçın hızı, torku, frenleme sistemi vs. bu faktörler araçın kullanımını belirler.\n4. **Güvenlik**: Araçın güvenlik özellikleri, çarpışma testleri, elektrikli araçlarda elektrikli sistemlerin güvenliği vs.\n\n### Araç Türünün Yayılımı\n\nAraç türleri, kullanım amacına göre farklı bölgelerde yayılabilir. Örneğin:\n\n1. **Şehirler**: Elektrikli araçlar ve kompakt araçlar şehirlerde daha yaygındır.\n2. **Kırsal Alanlar**: SUV'ler ve pikaplar kırsal alanlarda daha yaygındır.\n3. **İşyerleri**: İş aracı ve kamyonlar işyerlerinde daha yaygındır.\n4. **Spor Alanları**: Spor aracı ve bisikletler spor alanlarında daha yaygındır.\n\n### Optimum Yönetim Koşulları\n\nAraçların optimum yönetimi, araçların performansını ve ömürlerini uzatmak için gereken koşulları içerir:\n\n1. **Yakıt Verimliliği**: Araçın en verimli çalışma hızını bulmak.\n2. **Bakım**: Düzenli bakım ve kontrol.\n3. **Kullanım**: Araçın kullanım amacına","status":true}
+2025-10-24 19:52:32 - İşlem tamamlandı
+2025-10-24 19:54:15 - İstek başladı
+2025-10-24 19:54:15 - Dosya yüklendi: http://localhost/uploads/img_68fbbd47a03981.85546161.jpeg
+2025-10-24 19:54:40 - RapidAPI yanıt kodu: 200
+2025-10-24 19:54:40 - RapidAPI ham yanıtı (ilk 4000 char): {"result":"```json\n{\n  \"treeName\": \"Karaagac\",\n  \"regions\": \"Belirtilmedi\",\n  \"conditions\": \"Optimum yetişme koşulları: Hava sıcaklığı 10-25°C, toprak pH 6.0-7.0\",\n  \"radius\": \"100\",\n  \"age\": \"Belirtilmedi\",\n  \"confidence\": \"95\"\n}\n```","status":true}
+2025-10-24 19:54:40 - İşlem tamamlandı
+2025-10-26 16:51:51 - İstek başladı
+2025-10-26 16:51:51 - Dosya yüklendi: http://localhost/uploads/img_68fe4397a75c92.03734056.jpeg
+2025-10-26 16:51:51 - Başlangıç akışı: PlantNet -> RapidAPI (fallback: image)
+2025-10-26 16:51:51 - PlantNet isteği oluşturuldu. URL: https://my.plantnet.org/v2/identify/all?api-key=2b10x7BvD9ZpgVKS5qsIyAAv0e
+2025-10-26 16:51:51 - PlantNet payload preview: {"images":["http:\/\/localhost\/uploads\/img_68fe4397a75c92.03734056.jpeg"]}
+2025-10-26 16:51:53 - PlantNet yanıt kodu: 404
+2025-10-26 16:51:53 - PlantNet ham yanıt (ilk 2000 char): <!DOCTYPE html><html><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Server Error</title>
+<style>@charset "UTF-8";:root,[data-bs-theme=light]{--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-black:#000;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-gray-100:#f8f9fa;--bs-gray-200:#e9ecef;--bs-gray-300:#dee2e6;--bs-gray-400:#ced4da;--bs-gray-500:#adb5bd;--bs-gray-600:#6c757d;--bs-gray-700:#495057;--bs-gray-800:#343a40;--bs-gray-900:#212529;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-primary-rgb:13,110,253;--bs-secondary-rgb:108,117,125;--bs-success-rgb:25,135,84;--bs-info-rgb:13,202,240;--bs-warning-rgb:255,193,7;--bs-danger-rgb:220,53,69;--bs-light-rgb:248,249,250;--bs-dark-rgb:33,37,41;--bs-primary-text-emphasis:#052c65;--bs-secondary-text-emphasis:#2b2f32;--bs-success-text-emphasis:#0a3622;--bs-info-text-emphasis:#055160;--bs-warning-text-emphasis:#664d03;--bs-danger-text-emphasis:#58151c;--bs-light-text-emphasis:#495057;--bs-dark-text-emphasis:#495057;--bs-primary-bg-subtle:#cfe2ff;--bs-secondary-bg-subtle:#e2e3e5;--bs-success-bg-subtle:#d1e7dd;--bs-info-bg-subtle:#cff4fc;--bs-warning-bg-subtle:#fff3cd;--bs-danger-bg-subtle:#f8d7da;--bs-light-bg-subtle:#fcfcfd;--bs-dark-bg-subtle:#ced4da;--bs-primary-border-subtle:#9ec5fe;--bs-secondary-border-subtle:#c4c8cb;--bs-success-border-subtle:#a3cfbb;--bs-info-border-subtle:#9eeaf9;--bs-warning-border-subtle:#ffe69c;--bs-danger-border-subtle:#f1aeb5;--bs-light-border-subtle:#e9ecef;--bs-dark-border-subtle:#adb5bd;--bs-white-rgb:255,255,255;--bs-black-rgb:0,0,0;--bs-font-sans-serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Appl
+2025-10-26 16:51:53 - RapidAPI isteği hazırlandı. usingPlantName=false ; userText preview: Bu görüntüyü analiz et ve sadece aşağıdaki anahtarlarla geçerli bir JSON döndür:
+{"treeName":"<ağaç türü>","regions":"<yaygın bölgeler>","conditions":"<optimum yaşam koşulları>","radius":"<gövde yarıçapı cm>","age":"<tahmini yaş>","confidence":"<güven skoru %>"}
+
+Eğer kesin
+2025-10-26 16:52:08 - RapidAPI yanıt kodu: 200
+2025-10-26 16:52:08 - RapidAPI ham yanıtı (ilk 4000 char): {"result":"```json\n{\n  \"treeName\": \"Karaçam\",\n  \"regions\": \"Belirtilmedi\",\n  \"conditions\": \"Optimum yetişme koşulları: Hava sıcaklığı 10-25°C, nem oranı 40-60%\",\n  \"radius\": \"100\",\n  \"age\": \"Belirtilmedi\",\n  \"confidence\": \"95\"\n}\n```","status":true}
+2025-10-26 16:52:08 - Final normalized data (from RapidAPI): {"treeName":"Karaçam","confidence":"95"}
+2025-10-26 16:52:08 - İşlem tamamlandı
+2025-10-26 16:44:08 - İstek başladı
+2025-10-26 16:44:08 - Dosya yüklendi: http://localhost:8080/uploads/img_68fe4fd89913d1.72977690.jpeg
+2025-10-26 16:44:08 - Başlangıç akışı: PlantNet -> RapidAPI (fallback: image)
+2025-10-26 16:44:08 - PlantNet isteği oluşturuldu. URL: https://my.plantnet.org/v2/identify/all?api-key=2b10x7BvD9ZpgVKS5qsIyAAv0e
+2025-10-26 16:44:08 - PlantNet payload preview: {"images":["http:\/\/localhost:8080\/uploads\/img_68fe4fd89913d1.72977690.jpeg"]}
+2025-10-26 16:44:09 - PlantNet yanıt kodu: 0
+2025-10-26 16:44:09 - PlantNet ham yanıt (ilk 2000 char): 
+2025-10-26 16:44:09 - PlantNet CURL hatası: error setting certificate verify locations:
+  CAfile: /data/data/com.termux/files/usr/etc/tls/cert.pem
+  CApath: /data/data/com.termux/files/usr/etc/tls/certs
+2025-10-26 16:44:09 - RapidAPI isteği hazırlandı. usingPlantName=false ; userText preview: Bu görüntüyü analiz et ve sadece aşağıdaki anahtarlarla geçerli bir JSON döndür:
+{"treeName":"<ağaç türü>","regions":"<yaygın bölgeler>","conditions":"<optimum yaşam koşulları>","radius":"<gövde yarıçapı cm>","age":"<tahmini yaş>","confidence":"<güven skoru %>"}
+
+Eğer kesin
+2025-10-26 16:44:10 - RapidAPI yanıt kodu: 0
+2025-10-26 16:44:10 - RapidAPI ham yanıtı (ilk 4000 char): 
+2025-10-26 16:44:10 - RapidAPI CURL hatası: error setting certificate verify locations:
+  CAfile: /data/data/com.termux/files/usr/etc/tls/cert.pem
+  CApath: /data/data/com.termux/files/usr/etc/tls/certs
+2025-10-26 16:44:10 - Her iki servis de yanıt veremedi. PlantNet raw preview: 
+2025-10-26 16:44:10 - İşlem tamamlandı
+2025-10-26 16:45:36 - İstek başladı
+2025-10-26 16:45:36 - Dosya yüklendi: http://localhost:8080/uploads/img_68fe5030dd2062.80414747.jpeg
+2025-10-26 16:45:36 - Başlangıç akışı: PlantNet -> RapidAPI (fallback: image)
+2025-10-26 16:45:36 - PlantNet isteği oluşturuldu. URL: https://my.plantnet.org/v2/identify/all?api-key=2b10x7BvD9ZpgVKS5qsIyAAv0e
+2025-10-26 16:45:36 - PlantNet payload preview: {"images":["http:\/\/localhost:8080\/uploads\/img_68fe5030dd2062.80414747.jpeg"]}
+2025-10-26 16:45:37 - PlantNet yanıt kodu: 0
+2025-10-26 16:45:37 - PlantNet ham yanıt (ilk 2000 char): 
+2025-10-26 16:45:37 - PlantNet CURL hatası: error setting certificate file: /data/data/com.termux/files/usr/etc/tls/cert.pem
+2025-10-26 16:45:37 - RapidAPI isteği hazırlandı. usingPlantName=false ; userText preview: Bu görüntüyü analiz et ve sadece aşağıdaki anahtarlarla geçerli bir JSON döndür:
+{"treeName":"<ağaç türü>","regions":"<yaygın bölgeler>","conditions":"<optimum yaşam koşulları>","radius":"<gövde yarıçapı cm>","age":"<tahmini yaş>","confidence":"<güven skoru %>"}
+
+Eğer kesin
+2025-10-26 16:45:37 - RapidAPI yanıt kodu: 0
+2025-10-26 16:45:37 - RapidAPI ham yanıtı (ilk 4000 char): 
+2025-10-26 16:45:37 - RapidAPI CURL hatası: error setting certificate file: /data/data/com.termux/files/usr/etc/tls/cert.pem
+2025-10-26 16:45:37 - Her iki servis de yanıt veremedi. PlantNet raw preview: 
+2025-10-26 16:45:37 - İşlem tamamlandı
+2025-10-30 05:50:41 - İstek başladı
+2025-10-30 05:50:41 - Dosya yüklendi: http://localhost:8080/uploads/img_6902eea13a77c8.11887780.jpeg
+2025-10-30 05:50:41 - Başlangıç akışı: PlantNet -> RapidAPI (fallback: image)
+2025-10-30 05:50:41 - PlantNet isteği oluşturuldu. URL: https://my.plantnet.org/v2/identify/all?api-key=2b10x7BvD9ZpgVKS5qsIyAAv0e
+2025-10-30 05:50:41 - PlantNet payload preview: {"images":["http:\/\/localhost:8080\/uploads\/img_6902eea13a77c8.11887780.jpeg"]}
+2025-10-30 05:50:41 - PlantNet yanıt kodu: 0
+2025-10-30 05:50:41 - PlantNet ham yanıt (ilk 2000 char): 
+2025-10-30 05:50:41 - PlantNet CURL hatası: Failed to connect to my.plantnet.org port 443 after 27 ms: Could not connect to server
+2025-10-30 05:50:41 - RapidAPI isteği hazırlandı. usingPlantName=false ; userText preview: Bu görüntüyü analiz et ve sadece aşağıdaki anahtarlarla geçerli bir JSON döndür:
+{"treeName":"<ağaç türü>","regions":"<yaygın bölgeler>","conditions":"<optimum yaşam koşulları>","radius":"<gövde yarıçapı cm>","age":"<tahmini yaş>","confidence":"<güven skoru %>"}
+
+Eğer kesin
+2025-10-30 05:50:41 - RapidAPI yanıt kodu: 0
+2025-10-30 05:50:41 - RapidAPI ham yanıtı (ilk 4000 char): 
+2025-10-30 05:50:41 - RapidAPI CURL hatası: Failed to connect to chatgpt-vision1.p.rapidapi.com port 443 after 20 ms: Could not connect to server
+2025-10-30 05:50:41 - Her iki servis de yanıt veremedi. PlantNet raw preview: 
+2025-10-30 05:50:41 - İşlem tamamlandı
+2025-10-30 05:51:51 - İstek başladı
+2025-10-30 05:51:51 - Dosya yüklendi: http://localhost:8080/uploads/img_6902eee721cf08.29795344.jpeg
+2025-10-30 05:51:51 - Başlangıç akışı: PlantNet -> RapidAPI (fallback: image)
+2025-10-30 05:51:51 - PlantNet isteği oluşturuldu. URL: https://my.plantnet.org/v2/identify/all?api-key=2b10x7BvD9ZpgVKS5qsIyAAv0e
+2025-10-30 05:51:51 - PlantNet payload preview: {"images":["http:\/\/localhost:8080\/uploads\/img_6902eee721cf08.29795344.jpeg"]}
+2025-10-30 05:51:52 - PlantNet yanıt kodu: 404
+2025-10-30 05:51:52 - PlantNet ham yanıt (ilk 2000 char): <!DOCTYPE html><html><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Server Error</title>
+<style>@charset "UTF-8";:root,[data-bs-theme=light]{--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-black:#000;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-gray-100:#f8f9fa;--bs-gray-200:#e9ecef;--bs-gray-300:#dee2e6;--bs-gray-400:#ced4da;--bs-gray-500:#adb5bd;--bs-gray-600:#6c757d;--bs-gray-700:#495057;--bs-gray-800:#343a40;--bs-gray-900:#212529;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-primary-rgb:13,110,253;--bs-secondary-rgb:108,117,125;--bs-success-rgb:25,135,84;--bs-info-rgb:13,202,240;--bs-warning-rgb:255,193,7;--bs-danger-rgb:220,53,69;--bs-light-rgb:248,249,250;--bs-dark-rgb:33,37,41;--bs-primary-text-emphasis:#052c65;--bs-secondary-text-emphasis:#2b2f32;--bs-success-text-emphasis:#0a3622;--bs-info-text-emphasis:#055160;--bs-warning-text-emphasis:#664d03;--bs-danger-text-emphasis:#58151c;--bs-light-text-emphasis:#495057;--bs-dark-text-emphasis:#495057;--bs-primary-bg-subtle:#cfe2ff;--bs-secondary-bg-subtle:#e2e3e5;--bs-success-bg-subtle:#d1e7dd;--bs-info-bg-subtle:#cff4fc;--bs-warning-bg-subtle:#fff3cd;--bs-danger-bg-subtle:#f8d7da;--bs-light-bg-subtle:#fcfcfd;--bs-dark-bg-subtle:#ced4da;--bs-primary-border-subtle:#9ec5fe;--bs-secondary-border-subtle:#c4c8cb;--bs-success-border-subtle:#a3cfbb;--bs-info-border-subtle:#9eeaf9;--bs-warning-border-subtle:#ffe69c;--bs-danger-border-subtle:#f1aeb5;--bs-light-border-subtle:#e9ecef;--bs-dark-border-subtle:#adb5bd;--bs-white-rgb:255,255,255;--bs-black-rgb:0,0,0;--bs-font-sans-serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Appl
+2025-10-30 05:51:52 - RapidAPI isteği hazırlandı. usingPlantName=false ; userText preview: Bu görüntüyü analiz et ve sadece aşağıdaki anahtarlarla geçerli bir JSON döndür:
+{"treeName":"<ağaç türü>","regions":"<yaygın bölgeler>","conditions":"<optimum yaşam koşulları>","radius":"<gövde yarıçapı cm>","age":"<tahmini yaş>","confidence":"<güven skoru %>"}
+
+Eğer kesin
+2025-10-30 05:52:20 - RapidAPI yanıt kodu: 200
+2025-10-30 05:52:20 - RapidAPI ham yanıtı (ilk 4000 char): {"result":"```json\n{\n  \"treeName\": \"Karaağaç\",\n  \"regions\": \"Belirtilmedi\",\n  \"conditions\": \"Optimum yetişme koşulları: Hava sıcaklığı 10-25°C, toprak pH 6.5-7.5\",\n  \"radius\": \"10\",\n  \"age\": \"Belirtilmedi\",\n  \"confidence\": \"95\"\n}\n```","status":true}
+2025-10-30 05:52:20 - Final normalized data (from RapidAPI): {"treeName":"Karaağaç","confidence":"95"}
+2025-10-30 05:52:20 - İşlem tamamlandı
+2025-10-30 11:11:22 - İstek başladı
+2025-10-30 11:11:22 - Dosya yüklendi: http://localhost:8080/uploads/img_690339ca346179.48739200.jpeg
+2025-10-30 11:11:22 - Başlangıç akışı: PlantNet -> RapidAPI (fallback: image)
+2025-10-30 11:11:22 - PlantNet isteği oluşturuldu. URL: https://my.plantnet.org/v2/identify/all?api-key=2b10x7BvD9ZpgVKS5qsIyAAv0e
+2025-10-30 11:11:22 - PlantNet payload preview: {"images":["http:\/\/localhost:8080\/uploads\/img_690339ca346179.48739200.jpeg"]}
+2025-10-30 11:11:23 - PlantNet yanıt kodu: 404
+2025-10-30 11:11:23 - PlantNet ham yanıt (ilk 2000 char): <!DOCTYPE html><html><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Server Error</title>
+<style>@charset "UTF-8";:root,[data-bs-theme=light]{--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-black:#000;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-gray-100:#f8f9fa;--bs-gray-200:#e9ecef;--bs-gray-300:#dee2e6;--bs-gray-400:#ced4da;--bs-gray-500:#adb5bd;--bs-gray-600:#6c757d;--bs-gray-700:#495057;--bs-gray-800:#343a40;--bs-gray-900:#212529;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-primary-rgb:13,110,253;--bs-secondary-rgb:108,117,125;--bs-success-rgb:25,135,84;--bs-info-rgb:13,202,240;--bs-warning-rgb:255,193,7;--bs-danger-rgb:220,53,69;--bs-light-rgb:248,249,250;--bs-dark-rgb:33,37,41;--bs-primary-text-emphasis:#052c65;--bs-secondary-text-emphasis:#2b2f32;--bs-success-text-emphasis:#0a3622;--bs-info-text-emphasis:#055160;--bs-warning-text-emphasis:#664d03;--bs-danger-text-emphasis:#58151c;--bs-light-text-emphasis:#495057;--bs-dark-text-emphasis:#495057;--bs-primary-bg-subtle:#cfe2ff;--bs-secondary-bg-subtle:#e2e3e5;--bs-success-bg-subtle:#d1e7dd;--bs-info-bg-subtle:#cff4fc;--bs-warning-bg-subtle:#fff3cd;--bs-danger-bg-subtle:#f8d7da;--bs-light-bg-subtle:#fcfcfd;--bs-dark-bg-subtle:#ced4da;--bs-primary-border-subtle:#9ec5fe;--bs-secondary-border-subtle:#c4c8cb;--bs-success-border-subtle:#a3cfbb;--bs-info-border-subtle:#9eeaf9;--bs-warning-border-subtle:#ffe69c;--bs-danger-border-subtle:#f1aeb5;--bs-light-border-subtle:#e9ecef;--bs-dark-border-subtle:#adb5bd;--bs-white-rgb:255,255,255;--bs-black-rgb:0,0,0;--bs-font-sans-serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Appl
+2025-10-30 11:11:23 - RapidAPI isteği hazırlandı. usingPlantName=false ; userText preview: Bu görüntüyü analiz et ve sadece aşağıdaki anahtarlarla geçerli bir JSON döndür:
+{"treeName":"<ağaç türü>","regions":"<yaygın bölgeler>","conditions":"<optimum yaşam koşulları>","radius":"<gövde yarıçapı cm>","age":"<tahmini yaş>","confidence":"<güven skoru %>"}
+
+Eğer kesin
+2025-10-30 11:11:38 - RapidAPI yanıt kodu: 200
+2025-10-30 11:11:38 - RapidAPI ham yanıtı (ilk 4000 char): {"result":"```json\n{\n  \"treeName\": \"Kiraz\",\n  \"regions\": \"Belirtilmedi\",\n  \"conditions\": \"Güney ve Orta Anadolu\",\n  \"radius\": \"10\",\n  \"age\": \"Belirtilmedi\",\n  \"confidence\": \"95\"\n}\n```","status":true}
+2025-10-30 11:11:38 - Final normalized data (from RapidAPI): {"treeName":"Kiraz","confidence":"95"}
+2025-10-30 11:11:38 - İşlem tamamlandı
+2025-11-02 13:35:48 - İstek başladı
+2025-11-02 13:35:48 - Dosya yüklendi: http://localhost:8080/uploads/img_6907502437fa60.56186275.jpeg
+2025-11-02 13:35:48 - Başlangıç akışı: PlantNet -> RapidAPI (fallback: image)
+2025-11-02 13:35:48 - PlantNet isteği oluşturuldu. URL: https://my.plantnet.org/v2/identify/all?api-key=2b10x7BvD9ZpgVKS5qsIyAAv0e
+2025-11-02 13:35:48 - PlantNet payload preview: {"images":["http:\/\/localhost:8080\/uploads\/img_6907502437fa60.56186275.jpeg"]}
+2025-11-02 13:35:49 - PlantNet yanıt kodu: 404
+2025-11-02 13:35:49 - PlantNet ham yanıt (ilk 2000 char): <!DOCTYPE html><html><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Server Error</title>
+<style>@charset "UTF-8";:root,[data-bs-theme=light]{--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-black:#000;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-gray-100:#f8f9fa;--bs-gray-200:#e9ecef;--bs-gray-300:#dee2e6;--bs-gray-400:#ced4da;--bs-gray-500:#adb5bd;--bs-gray-600:#6c757d;--bs-gray-700:#495057;--bs-gray-800:#343a40;--bs-gray-900:#212529;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-primary-rgb:13,110,253;--bs-secondary-rgb:108,117,125;--bs-success-rgb:25,135,84;--bs-info-rgb:13,202,240;--bs-warning-rgb:255,193,7;--bs-danger-rgb:220,53,69;--bs-light-rgb:248,249,250;--bs-dark-rgb:33,37,41;--bs-primary-text-emphasis:#052c65;--bs-secondary-text-emphasis:#2b2f32;--bs-success-text-emphasis:#0a3622;--bs-info-text-emphasis:#055160;--bs-warning-text-emphasis:#664d03;--bs-danger-text-emphasis:#58151c;--bs-light-text-emphasis:#495057;--bs-dark-text-emphasis:#495057;--bs-primary-bg-subtle:#cfe2ff;--bs-secondary-bg-subtle:#e2e3e5;--bs-success-bg-subtle:#d1e7dd;--bs-info-bg-subtle:#cff4fc;--bs-warning-bg-subtle:#fff3cd;--bs-danger-bg-subtle:#f8d7da;--bs-light-bg-subtle:#fcfcfd;--bs-dark-bg-subtle:#ced4da;--bs-primary-border-subtle:#9ec5fe;--bs-secondary-border-subtle:#c4c8cb;--bs-success-border-subtle:#a3cfbb;--bs-info-border-subtle:#9eeaf9;--bs-warning-border-subtle:#ffe69c;--bs-danger-border-subtle:#f1aeb5;--bs-light-border-subtle:#e9ecef;--bs-dark-border-subtle:#adb5bd;--bs-white-rgb:255,255,255;--bs-black-rgb:0,0,0;--bs-font-sans-serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Appl
+2025-11-02 13:35:49 - RapidAPI isteği hazırlandı. usingPlantName=false ; userText preview: Bu görüntüyü analiz et ve sadece aşağıdaki anahtarlarla geçerli bir JSON döndür:
+{"treeName":"<ağaç türü>","regions":"<yaygın bölgeler>","conditions":"<optimum yaşam koşulları>","radius":"<gövde yarıçapı cm>","age":"<tahmini yaş>","confidence":"<güven skoru %>"}
+
+Eğer kesin
+2025-11-02 13:36:17 - RapidAPI yanıt kodu: 200
+2025-11-02 13:36:17 - RapidAPI ham yanıtı (ilk 4000 char): {"result":"```json\n{\n  \"treeName\": \"Kadınçamı\",\n  \"regions\": \"Belirtilmedi\",\n  \"conditions\": \"Belirtilmedi\",\n  \"radius\": \"Belirtilmedi\",\n  \"age\": \"Belirtilmedi\",\n  \"confidence\": \"Belirtilmedi\"\n}\n```","status":true}
+2025-11-02 13:36:17 - Final normalized data (from RapidAPI): {"treeName":"Kadınçamı","confidence":"Belirtilmedi"}
+2025-11-02 13:36:17 - İşlem tamamlandı

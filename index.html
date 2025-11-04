@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atatürk Üniversitesi İspir MYO - Ormancılık</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <img src="http://isg.atauni.edu.tr/wp-content/uploads/2017/05/cropped-header-logo-1.png" alt="Atatürk Üniversitesi Logo" width="50"> <!-- Atatürk Üniversitesi logosu -->
+                İspir MYO Ormancılık
+            </a>
+            <!-- Responsive menü -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="#anasayfa">Anasayfa</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#hakkimizda">Hakkımızda</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#analiz">Ağaç Analizi</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#iletisim">İletişim</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero" data-aos="fade-up">
+    <div class="container">
+        <h1 class="display-1 fw-bold text-shadow">Ormancılık Teknolojileri</h1>
+        <p class="lead mb-4">Yapay Zeka Destekli Ağaç Analiz Sistemi</p>
+        <a href="#analiz" class="btn btn-lg btn-success">Analiz Başlat</a>
+    </div>
+</header>
+
+    <!-- Hakkımızda Bölümü -->
+<section id="hakkimizda" class="py-5 bg-light" data-aos="fade-up">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <img src="https://images.unsplash.com/photo-1542273917363-3b1817f69a2d" class="img-fluid rounded shadow" alt="Orman">
+            </div>
+            <div class="col-md-6">
+                <h2 class="mb-4">Hakkımızda</h2>
+                <p>İspir MYO Ormancılık Bölümü, modern teknolojileri kullanarak orman varlıklarımızı koruma ve geliştirme misyonuyla çalışmaktadır.</p>
+                <p>Yapay zeka destekli ağaç analiz sistemimiz ile:</p>
+                <ul>
+                    <li>Ağaç türü tespiti</li>
+                    <li>Sağlık durumu analizi</li>
+                    <li>Yaş ve boyut tahminlemesi</li>
+                    <li>Habitat uygunluk değerlendirmesi</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+    <!-- Analiz Bölümü -->
+    <section id="analiz" class="py-5" data-aos="fade-up">
+        <div class="container">
+            <h2>Ağaç Analizi</h2>
+            <div class="upload-area">
+                <form id="uploadForm" onsubmit="return false;">
+                    <input type="file" id="imageUpload" name="image" accept="image/*"> <!-- name eklendi -->
+                    <label for="imageUpload">Fotoğraf Yükle</label>
+                </form>
+
+                <!-- Durum / Önizleme / Analiz butonu -->
+                <div id="uploadStatus" class="mt-3 text-white"></div>
+                <div id="previewWrap" class="mt-3"></div>
+                <button id="analyzeBtn" class="btn btn-success mt-3" style="display:none;">Analiz Et</button>
+
+                <div id="result" class="mt-4"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h3>İletişim</h3>
+                    <p>İspir Meslek Yüksekokulu<br>
+                    Atatürk Üniversitesi<br>
+                    İspir/Erzurum</p>
+                </div>
+                <div class="col-md-6 text-end">
+                    <img src="http://isg.atauni.edu.tr/wp-content/uploads/2017/05/cropped-header-logo-1.png" alt="Atatürk Üniversitesi" width="100"> <!-- Üniversite logosu -->
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

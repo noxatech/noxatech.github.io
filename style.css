@@ -1,0 +1,116 @@
+:root {
+    --primary-color: #1b4332;
+    --secondary-color: #2d6a4f;
+    --accent-color: #40916c;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Navbar Styles */
+.navbar {
+    background-color: var(--primary-color);
+    padding: 1rem 0;
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+                url('https://images.unsplash.com/photo-1542273917363-3b1817f69a2d');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.text-shadow {
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+.btn-success {
+    background-color: var(--accent-color);
+    border: none;
+    padding: 1rem 2.5rem;
+    transition: all 0.3s ease;
+}
+
+.btn-success:hover {
+    background-color: var(--secondary-color);
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
+img {
+    transition: transform 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.02);
+}
+
+section {
+    overflow: hidden;
+}
+
+/* Card animations */
+.card {
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+/* Upload Area */
+.upload-area {
+    background: var(--secondary-color);
+    padding: 2rem;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+
+#imageUpload {
+    display: none;
+}
+
+label[for="imageUpload"] {
+    background: var(--accent-color);
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+label[for="imageUpload"]:hover {
+    background: var(--primary-color);
+}
+
+/* Footer */
+.footer {
+    background: var(--primary-color);
+    color: white;
+    padding: 2rem 0;
+    margin-top: 3rem;
+}
+
+/* Animations */
+[data-aos] {
+    transition-duration: 800ms;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .hero {
+        height: 60vh;
+    }
+    
+    .hero h1 {
+        font-size: 2rem;
+    }
+}
